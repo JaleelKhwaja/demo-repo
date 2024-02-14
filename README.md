@@ -1,3 +1,3 @@
 # demo-repo
 
-this is me learning git.
+this is me learning git!
